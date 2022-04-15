@@ -973,12 +973,9 @@ public class UserPortfolio implements PortfolioSystem {
     List<String> displaylist = new ArrayList<>();
 
     String delim = " ";
-    displaylist.add(
-        """
-            ================================ Summary of your portfolio of sales within the time
-             range entered===================================
-
-            """);
+    displaylist.add("================================ "
+                    + "Summary of your portfolio of sales within the time "
+                    + "range entered===================================");
 
     displaylist.add(BasicUI.strFiller("SYMBOL", 15));
     displaylist.add(BasicUI.strFiller("QTY", 15));
