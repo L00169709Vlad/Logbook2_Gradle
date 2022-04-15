@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProfolioApplication.UserPortfolioGetExchangeSummaryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-15T12:57:24" hostname="DESKTOP-1U3SJQB" time="0.844">
+  <properties/>
+  <testcase name="getExchangeSummary_WithInvalidRegion_ReturnsExchangeNameList" classname="ProfolioApplication.UserPortfolioGetExchangeSummaryTest" time="0.442"/>
+  <testcase name="getExchangeSummary_WithValidRegion_ReturnsExchangeNameList" classname="ProfolioApplication.UserPortfolioGetExchangeSummaryTest" time="0.401"/>
+  <system-out><![CDATA[
+List of Exchanges operating in uas region.
+
+List of Exchanges operating in AU region.
+1. Exchange full name: ASX
+    Exchange Symbol: ^AORD
+2. Exchange full name: ASX
+    Exchange Symbol: ^AXJO
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

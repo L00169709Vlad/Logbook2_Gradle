@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProfolioApplication.UserPortfolioWithdrawFundsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-15T12:57:25" hostname="DESKTOP-1U3SJQB" time="0.0">
+  <properties/>
+  <testcase name="UserPortfolioWithdrawFundsTest_EnoughFundsTest" classname="ProfolioApplication.UserPortfolioWithdrawFundsTest" time="0.0"/>
+  <testcase name="UserPortfolioWithdrawFundsTest_NotEnoughFundsTest" classname="ProfolioApplication.UserPortfolioWithdrawFundsTest" time="0.0"/>
+  <system-out><![CDATA[
+Amount of 1000.0 USD Has been added to your Funds
+
+Amount of 1000.0 USD Has been added to your Funds
+You have not enough founds for this request
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

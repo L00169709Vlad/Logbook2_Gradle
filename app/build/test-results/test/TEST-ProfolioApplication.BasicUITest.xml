@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProfolioApplication.BasicUITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-15T12:57:23" hostname="DESKTOP-1U3SJQB" time="0.003">
+  <properties/>
+  <testcase name="testEnterFundsAmount" classname="ProfolioApplication.BasicUITest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
