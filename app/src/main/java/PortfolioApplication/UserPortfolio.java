@@ -911,12 +911,9 @@ public class UserPortfolio implements PortfolioSystem {
     double diffPrice;
     double diffPriceUSD;
     String delim = " ";
-    displayList.add(
-        """
-            ================================ Summary of your portfolio of purchases withing
-             the time range entered===================================
-
-            """);
+    displayList.add("================================ "
+                    + "Summary of your portfolio of purchases withing "
+                    + "the time range entered===================================");
 
     displayList.add(BasicUI.strFiller("SYMBOL", 15));
     displayList.add(BasicUI.strFiller("QTY", 15));
